@@ -3,7 +3,7 @@ require File.dirname(__FILE__) + '/lib/boot_inquirer'
 source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.0.1'
+gem 'rails', '~>4.2'
 
 
 gemspec path: "apps/shared"
