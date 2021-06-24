@@ -55,3 +55,4 @@ group :test do
   gem 'fixture_builder'
 end
 
+gem 'veracode'
